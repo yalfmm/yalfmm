@@ -11,7 +11,7 @@
 <div align="center">
 <a href="https://github.com/yalfmm">
 <img height="155px" src="https://github-readme-stats.vercel.app/api?username=yalfmm&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-<img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalfmm&layout=compact&theme=blue-green"/>  
+<img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalfmm&layout=compact&theme=blue-green&card_width=240"/>  
 </div> 
 <br><hr>  
 <div> 
